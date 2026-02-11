@@ -1,0 +1,1 @@
+ arquivo.write(f'{nome},{whatsapp}\n'
